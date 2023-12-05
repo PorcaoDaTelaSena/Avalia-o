@@ -1,0 +1,53 @@
+.cabecalho{
+    display: block;
+}
+.foto0{
+    text-align: center;
+}
+.foto{
+    height: 250px;
+    width: 800px;
+}
+
+.titulo1{
+    text-align: center;
+    color: brown;
+}
+
+.titulo2{
+    text-align: center;
+    color: brown;
+}
+
+.titulo3{
+    text-align: center;
+    color: brown;
+    }
+
+.titulo4{
+    text-align: center;
+    color: green;
+}
+
+.texto1{
+    font-size: x-large;
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.texto2{
+    font-size: large;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.texto3{
+    font-size: medium;
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
